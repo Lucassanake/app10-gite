@@ -10,10 +10,10 @@
 /* botones */
 .bot {
 	text-align:center;
-	width: 60%;
-	height: auto;
-	padding-left: 20%;
-	padding-right: 20%;
+	width: 85%;
+	height: 30%;
+	padding-left: 7.5%;
+	padding-right: 7.5%;
 	border: 5%;
 }
 /* h2 */
